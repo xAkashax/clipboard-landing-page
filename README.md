@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Frontend Mentor](https://your-solution-url.com)
-- Live Site URL: [Demo](https://your-live-site-url.com)
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/clipboard-landing-page-05Kis6a8u1)
+- Live Site URL: [Demo](https://frolicking-tiramisu-ee9a5b.netlify.app/)
 
 ## My process
 
